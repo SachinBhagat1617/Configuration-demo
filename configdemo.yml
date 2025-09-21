@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: configdemo
+
+#  profiles:
+#    active: prod
+build:
+  id: 1001
+  version: 1.0.1
+  name: central Level
